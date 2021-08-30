@@ -1,6 +1,17 @@
-## Priorities
+# Priority List for Template
 
-What are the most important things for RKI?
+https://docs.google.com/spreadsheets/d/1lFJgpYdFXD-8b47wmOcoiMMeWXcQXW3mQEv20WpxNxE/edit#gid=1501435970
+
+Information about template https://write.healthsprints.org/document/575
+
+Documents to be created
+
+  - Template planning and documentation
+  - Fidus Writer Manual
+
+Issues: https://github.com/Health-Sprints/template/issues
+
+## Priorities for health agency
 
 Below is the long list, can we change this into a list of priorities? As
 
@@ -14,6 +25,8 @@ C. COULD
 
 
 D. WON'T
+
+Long list (for health agency)
 
   - An online real-time collaborative editor
   - Publishing document versions:
