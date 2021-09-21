@@ -18,7 +18,7 @@
       <content src="document-1.xhtml#_1_0" />
     </navPoint>
     <navPoint id="t_2_0-2">
-      <navLabel><text>RKI02 2 Vorbemerkung</text></navLabel>
+      <navLabel><text>2 Vorbemerkung</text></navLabel>
       <content src="document-2.xhtml#_2_0" />
     </navPoint>
     <navPoint id="t_3_0-3">
@@ -56,6 +56,34 @@
     <navPoint id="t_7_0-7">
       <navLabel><text>7 Vorgehen bei nachgewiesener Infektion</text></navLabel>
       <content src="document-7.xhtml#_7_0" />
+    </navPoint>
+    <navPoint id="t_8_0-8">
+      <navLabel><text>EXTRAS</text></navLabel>
+      <content src="document-8.xhtml#_8_0" />
+      <navPoint id="tH1720422-8">
+        <navLabel><text>H1 Zielgruppe des Dokuments</text></navLabel>
+        <content src="document-8.xhtml#H1720422" />
+        <navPoint id="tH2716720-8">
+          <navLabel><text>H2 Fall-basiertes Testen</text></navLabel>
+          <content src="document-8.xhtml#H2716720" />
+          <navPoint id="tH380543-8">
+            <navLabel><text>H3 Maßnahmen bei Symptomen, auch ohne Vorliegen eines Testergebnisses</text></navLabel>
+            <content src="document-8.xhtml#H380543" />
+            <navPoint id="tH7768565-8">
+              <navLabel><text>H4 Vorgehen bei nachgewiesener Infektion</text></navLabel>
+              <content src="document-8.xhtml#H7768565" />
+              <navPoint id="tH9682083-8">
+                <navLabel><text>H5 Vorgehen bei nachgewiesener Infektion</text></navLabel>
+                <content src="document-8.xhtml#H9682083" />
+                <navPoint id="tH5952869-8">
+                  <navLabel><text>H6 Vorgehen bei nachgewiesener Infektion</text></navLabel>
+                  <content src="document-8.xhtml#H5952869" />
+                </navPoint>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
     </navPoint>
     <navPoint id="t2">
       <navLabel><text>Copyright</text></navLabel>
