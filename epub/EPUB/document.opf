@@ -7,7 +7,7 @@
       Empfehlungen des Robert Koch-Instituts für Schulen
     </dc:creator>
     <dc:language>de-DE</dc:language>
-    <meta property="dcterms:modified">2021-09-21T10:25:32Z</meta>
+    <meta property="dcterms:modified">2021-09-21T13:30:18Z</meta>
     <dc:date>2021-09-21</dc:date>
     <dc:rights>Änderungen zur Version vom 18.02.2021: redaktionelle Änderungen. </dc:rights>
     <dc:publisher>Test name</dc:publisher>
@@ -29,8 +29,15 @@
     <item id="img1" href="images/46bf2518-19bf-4837-b334-601f0c61a11d.png" media-type="image/png" />
     <item id="img2" href="images/ed2c3f8e-80b3-4a5c-8af3-7f0aaede1a0d.png" media-type="image/png" />
     <item id="img3" href="images/887985ac-c6e1-4e75-9108-dd24b5bcc0cc.png" media-type="image/png" />
+    <item id="font0" href="css/media/NoticiaText-Bold_2.woff" media-type="font/woff" />
+    <item id="font1" href="css/media/NoticiaText-Italic.woff" media-type="font/woff" />
+    <item id="font2" href="css/media/NoticiaText-BoldItalic.woff" media-type="font/woff" />
+    <item id="font3" href="css/media/NoticiaText-Regular.woff" media-type="font/woff" />
+    <item id="font4" href="css/media/SourceSansPro-Bold.woff" media-type="font/woff" />
+    <item id="font5" href="css/media/Cover.jpg" media-type="font/sfnt" />
+    <item id="font6" href="css/media/LOGO_Akademie-oegw_Januar_2017.jpg" media-type="font/sfnt" />
     <item id="css0" href="css/document.css" media-type="text/css" />
-    <item id="css1" href="css/rki.css" media-type="text/css" />
+    <item id="css1" href="css/elephant.css" media-type="text/css" />
 
     <!-- ncx included for 2.0 reading system compatibility: -->
     <item id="ncx" href="document.ncx" media-type="application/x-dtbncx+xml" />
