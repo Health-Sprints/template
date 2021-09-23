@@ -58,7 +58,7 @@
       <content src="document-7.xhtml#_7_0" />
     </navPoint>
     <navPoint id="t_8_0-8">
-      <navLabel><text>EXTRAS</text></navLabel>
+      <navLabel><text>EXTRAS 1</text></navLabel>
       <content src="document-8.xhtml#_8_0" />
       <navPoint id="tH1720422-8">
         <navLabel><text>H1 Zielgruppe des Dokuments</text></navLabel>
@@ -82,6 +82,34 @@
               </navPoint>
             </navPoint>
           </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_9_0-9">
+      <navLabel><text>Extras 2</text></navLabel>
+      <content src="document-9.xhtml#_9_0" />
+    </navPoint>
+    <navPoint id="t_10_0-10">
+      <navLabel><text>Appendix</text></navLabel>
+      <content src="document-10.xhtml#_10_0" />
+    </navPoint>
+    <navPoint id="t_11_0-11">
+      <navLabel><text>change title 7 Vorgehen bei nachgewiesener Infektion</text></navLabel>
+      <content src="document-11.xhtml#_11_0" />
+    </navPoint>
+    <navPoint id="t_12_0-12">
+      <navLabel><text>copy of 6 Testkriterien</text></navLabel>
+      <content src="document-12.xhtml#_12_0" />
+      <navPoint id="tH6515269-12">
+        <navLabel><text>6.1 Anwendung der Testkriterien</text></navLabel>
+        <content src="document-12.xhtml#H6515269" />
+        <navPoint id="tH8802528-12">
+          <navLabel><text>Fall-basiertes Testen</text></navLabel>
+          <content src="document-12.xhtml#H8802528" />
+        </navPoint>
+        <navPoint id="tH1505935-12">
+          <navLabel><text>Maßnahmen bei Symptomen, auch ohne Vorliegen eines Testergebnisses Da jegliche respiratorische</text></navLabel>
+          <content src="document-12.xhtml#H1505935" />
         </navPoint>
       </navPoint>
     </navPoint>
