@@ -1,0 +1,148 @@
+\documentclass{article}
+
+\usepackage{caption}
+\usepackage{graphicx}
+                
+\usepackage{calc}
+                
+\newlength{\imgwidth}
+                
+\newcommand\scaledgraphics[2]{%
+                
+\settowidth{\imgwidth}{\includegraphics{#1}}%
+                
+\setlength{\imgwidth}{\minof{\imgwidth}{#2\textwidth}}%
+                
+\includegraphics[width=\imgwidth,height=\textheight,keepaspectratio]{#1}%
+                
+}
+            
+\usepackage{tabu}
+\begin{document}
+
+\title{Extras 2}
+
+\maketitle
+
+
+\begin{tabu} to \textwidth { |X|X|X|X| }
+\hline
+
+
+
+Title 1 & Title 2 & Title after extra & Title 3
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie & another extra  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+
+Akute Hypo- oder Anosmie & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+
+\begin{figure}
+\scaledgraphics{2f637676-0218-46ea-b77b-f7f447a6bbe0.jpg}{1}
+\label{F66673481}
+\end{figure} & Akute Hypo- oder Anosmie &  & Akute Hypo- oder Anosmie
+ \\
+\hline
+
+\end{tabu}
+
+
+
+\begin{figure}
+\scaledgraphics{2f637676-0218-46ea-b77b-f7f447a6bbe0.jpg}{1}
+\caption*{this is caption}\label{F62858991}
+\end{figure}
+
+
+
+
+\begin{figure}
+\scaledgraphics{38df1a7e-d922-4d51-ac63-3477b07396d6.png}{0.5}
+\caption*{cover Sage Report}\label{F24930991}
+\end{figure}
+
+\end{document}
